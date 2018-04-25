@@ -1,0 +1,9 @@
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\bin\Debug\SSLScraper.exe.config
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\bin\Debug\SSLScraper.exe
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\bin\Debug\SSLScraper.pdb
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.Properties.Resources.resources
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.csproj.GenerateResource.Cache
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.exe
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.pdb
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.Form3.resources
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\SSLScraper\SSLScraper\obj\Debug\SSLScraper.csprojResolveAssemblyReference.cache
